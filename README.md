@@ -14,7 +14,7 @@ Read:
 Initialize repo:
 
 ```sh
-repo init -u https://github.com/FlokoROM/manifesto.git -b 11.0
+repo init -u https://github.com/Cugry/manifesto.git -b 11.0
 ```
 
 Sync(Download):
