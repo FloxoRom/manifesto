@@ -46,5 +46,5 @@
   <project path="vendor/lineage" name="Cugry/vendor_floko" remote="floko" />
   
   <!-- FlokoROM GitLab -->
-  <project path="prebuilts/bromite" name="FlokoROM/prebuilts_bromite" remote="gitlab" revision="master" clone-depth="1" />
+  <project path="prebuilts/bromite" name="Cugry/prebuilts_bromite" remote="gitlab" revision="main" clone-depth="1" />
 </manifest>
