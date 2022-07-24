@@ -1,0 +1,2 @@
+# manifesto
+our new home
