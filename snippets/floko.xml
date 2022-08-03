@@ -20,11 +20,12 @@
   <remove-project name="crdroidandroid/android_packages_apps_Updater" />
   <remove-project name="crdroidandroid/android_vendor_addons" />
   <remove-project name="crdroidandroid/android_vendor_crdroid" />
+  <remove-project name="crdroidandroid/bootable_recovery" />
   <remove-project name="LineageOS/android_packages_apps_Eleven" />
   <remove-project name="LineageOS/android_packages_apps_Jelly" />
 
   <!-- FlokoROM GitHub -->
-  <project path="build/make" name="FloxoROM/build" remote="floko" >
+  <project path="build/make" name="FloxoRom/build" remote="floko" >
           <copyfile src="core/root.mk" dest="Makefile" />
           <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
           <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -33,18 +34,19 @@
           <linkfile src="target" dest="build/target" />
           <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="build/soong" name="FloxoROM/build_soong" remote="floko" >
+  <project path="build/soong" name="FloxoRom/build_soong" remote="floko" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <project path="frameworks/base" name="FloxoROM/frameworks_base" remote="floko" />
-  <project path="lineage-sdk" name="FloxoROM/lineage-sdk" remote="floko" />
-  <project path="packages/apps/crDroidSettings" name="FloxoROM/packages_apps_FlokoSettings" remote="floko" />
-  <project path="packages/apps/LineageParts" name="FloxoROM/packages_apps_LineageParts" remote="floko" />
-  <project path="packages/apps/OmniSwitch" name="FloxoROM/packages_apps_OmniSwitch" remote="floko" revision="12.1" />
-  <project path="packages/apps/Settings" name="FloxoROM/packages_apps_Settings" remote="floko" />
-  <project path="packages/apps/SetupWizard" name="FloxoROM/packages_apps_SetupWizard" remote="floko" />
-  <project path="vendor/addons" name="FloxoROM/vendor_addons" remote="floko" />
-  <project path="vendor/lineage" name="FloxoROM/vendor_floko" remote="floko" />
+  <project path="frameworks/base" name="FloxoRom/frameworks_base" remote="floko" />
+  <project path="lineage-sdk" name="FloxoRom/lineage-sdk" remote="floko" />
+  <project path="packages/apps/crDroidSettings" name="FloxoRom/packages_apps_FlokoSettings" remote="floko" />
+  <project path="packages/apps/LineageParts" name="FloxoRom/packages_apps_LineageParts" remote="floko" />
+  <project path="packages/apps/OmniSwitch" name="FloxoRom/packages_apps_OmniSwitch" remote="floko" revision="12.1" />
+  <project path="packages/apps/Settings" name="FloxoRom/packages_apps_Settings" remote="floko" />
+  <project path="packages/apps/SetupWizard" name="FloxoRom/packages_apps_SetupWizard" remote="floko" />
+  <project path="vendor/addons" name="FloxoRom/vendor_addons" remote="floko" />
+  <project path="vendor/lineage" name="FloxoRom/vendor_floko" remote="floko" />
+  <project path="vendor/lineage" name="FloxoRom/bootable_recovery" remote="floko" />
 
 </manifest>
