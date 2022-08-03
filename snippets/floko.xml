@@ -47,6 +47,6 @@
   <project path="packages/apps/SetupWizard" name="FloxoRom/packages_apps_SetupWizard" remote="floko" />
   <project path="vendor/addons" name="FloxoRom/vendor_addons" remote="floko" />
   <project path="vendor/lineage" name="FloxoRom/vendor_floko" remote="floko" />
-  <project path="vendor/lineage" name="FloxoRom/bootable_recovery" remote="floko" />
+  <project path="bootable/recovery" name="FloxoRom/bootable_recovery" remote="floko" />
 
 </manifest>
