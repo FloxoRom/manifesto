@@ -1,20 +1,20 @@
-##FlokoROMを継承したROM
+## FlokoROMを継承したROM
 基本的にはFlokoROMと同等の特徴を持ったカスタムROMです。
 現在Alpha版であるため、後述の問題点含めその他未知のバグを含む可能性があります。
 
-###将来的な予定
+### 将来的な予定
 * ROMの名称変更(継承しているとはいえ非公式であるため)
 
-###既知の問題点
+### 既知の問題点
 * OmniSwitchが使用不可(設定から消えた)
 * アプリの詳細画面がエラーで開けない
 
-###連絡先
+### 連絡先
 Cugryが管理しています。何かあれば以下へ
 * [Twitter](https://twitter.com/Cugry)
 * [Github](https://github.com/Cugry)
 
-##以下コピペ
+## 以下コピペ
 
 ## How to build
 
