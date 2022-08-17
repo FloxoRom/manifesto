@@ -24,7 +24,7 @@ repo init -u https://github.com/Cugry/manifesto.git -b 11.0
 Sync(Download):
 
 ```sh
-repo sync -j32 -c --no-clone-bundle --no-tags
+repo sync -j$(nproc) -c --no-clone-bundle --no-tags
 ```
 
 ## Build
