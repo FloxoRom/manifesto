@@ -1,6 +1,6 @@
 # IMPORTANT : This is Unofficial Project.
 
-## LAST Update : 2022-09-14, Security Patch : 2022-09-05
+## LAST Update : 2022-10-17, Security Patch : 2022-10-05
 
 ![FlokoROM](https://lindwurm.neocities.org/img/floko/flokowall_v4_mini.png)
 
