@@ -1,3 +1,5 @@
+## LAST Update : 2022-11-16, Security Patch : 2022-11-05
+
 ## FlokoROMを継承したROM
 基本的にはFlokoROMと同等の特徴を持ったカスタムROMです。
 現在Alpha版であるため、後述の問題点含めその他未知のバグを含む可能性があります。
