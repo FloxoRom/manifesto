@@ -13,7 +13,7 @@
 Cugryが管理しています。何かあれば以下へ
 * [Twitter](https://twitter.com/Cugry)
 * [Github](https://github.com/Cugry)
-
+* Discord : Cugry#6038
 ## 以下コピペ
 
 ## How to build
