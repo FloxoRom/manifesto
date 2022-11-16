@@ -1,4 +1,5 @@
 ## LAST Update : 2022-11-16, Security Patch : 2022-11-05
+* [FlokoROM v4(unofficial,Android 11.0) is available.](https://github.com/Cugry/manifesto)
 
 ## FlokoROMを継承したROM
 基本的にはFlokoROMと同等の特徴を持ったカスタムROMです。
