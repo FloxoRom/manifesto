@@ -21,6 +21,7 @@
   <remove-project name="crdroidandroid/android_vendor_addons" />
   <remove-project name="crdroidandroid/android_vendor_crdroid" />
   <remove-project name="crdroidandroid/android_bootable_recovery" />
+  <remove-project name="crdroidandroid/android_packages_services_Telecomm" />
   <remove-project name="LineageOS/android_packages_apps_Eleven" />
   <remove-project name="LineageOS/android_packages_apps_Jelly" />
 
@@ -48,5 +49,5 @@
   <project path="vendor/addons" name="FloxoRom/vendor_addons" remote="floko" />
   <project path="vendor/lineage" name="FloxoRom/vendor_floko" remote="floko" />
   <project path="bootable/recovery" name="FloxoRom/bootable_recovery" remote="floko" />
-
+  <project path="packages/services/Telecomm" name="FloxoRom/android_packages_services_Telecomm" remote="floko" />
 </manifest>
