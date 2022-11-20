@@ -1,8 +1,9 @@
 ## LAST Update : 2022-11-16, Security Patch : 2022-11-05
 * [FlokoROM v4(unofficial,Android 11.0) is available.](https://github.com/FloxoRom/manifesto/tree/11.0)
 
-## FlokoROMを継承したROM
-基本的にはFlokoROMと同等の特徴を持ったカスタムROMです。
+## FlokoROMを継承したカスタムROM
+開発終了となったFlokoROMと同等の特徴を持ったカスタムROMです。
+crDroid[https://crdroid.net/]をベースに、いくつかの変更が加えられています。[詳しくはこちら](https://wiki.maud.io/ja/floko/v4)
 現在Alpha版であるため、後述の問題点含めその他未知のバグを含む可能性があります。
 
 ### 将来的な予定
