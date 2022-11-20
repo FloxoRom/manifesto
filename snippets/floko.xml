@@ -24,7 +24,7 @@
   <remove-project name="crdroidandroid/android_vendor_crDroidOTA" />
 
   <!-- FlokoROM GitHub -->
-  <project path="build/make" name="Cugry/build" remote="floko" >
+  <project path="build/make" name="FloxoRom/build" remote="floko" >
           <copyfile src="core/root.mk" dest="Makefile" />
           <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
           <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -33,15 +33,15 @@
           <linkfile src="target" dest="build/target" />
           <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="frameworks/base" name="Cugry/frameworks_base" remote="floko" />
-  <project path="lineage-sdk" name="Cugry/lineage-sdk" remote="floko" />
-  <project path="packages/apps/crDroidSettings" name="Cugry/packages_apps_FlokoSettings" remote="floko" />
-  <project path="packages/apps/LineageParts" name="Cugry/packages_apps_LineageParts" remote="floko" />
+  <project path="frameworks/base" name="FloxoRom/frameworks_base" remote="floko" />
+  <project path="lineage-sdk" name="FloxoRom/lineage-sdk" remote="floko" />
+  <project path="packages/apps/crDroidSettings" name="FloxoRom/packages_apps_FlokoSettings" remote="floko" />
+  <project path="packages/apps/LineageParts" name="FloxoRom/packages_apps_LineageParts" remote="floko" />
   <project path="packages/apps/OmniSwitch" name="FlokoROM/packages_apps_OmniSwitch" remote="floko" />
-  <project path="packages/apps/Settings" name="Cugry/packages_apps_Settings" remote="floko" />
+  <project path="packages/apps/Settings" name="FloxoRom/packages_apps_Settings" remote="floko" />
   <project path="packages/apps/SetupWizard" name="FlokoROM/packages_apps_SetupWizard" remote="floko" />
   <!--<project path="packages/apps/Updater" name="FlokoROM/packages_apps_Updater" remote="floko" />-->
   <project path="packages/services/OmniJaws" name="FlokoROM/packages_services_OmniJaws" remote="floko" />
-  <project path="vendor/addons" name="Cugry/vendor_addons" remote="floko" />
-  <project path="vendor/lineage" name="Cugry/vendor_floko" remote="floko" />
+  <project path="vendor/addons" name="FloxoRom/vendor_addons" remote="floko" />
+  <project path="vendor/lineage" name="FloxoRom/vendor_floko" remote="floko" />
 </manifest>
