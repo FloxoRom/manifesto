@@ -21,6 +21,7 @@
   <remove-project name="crdroidandroid/android_vendor_addons" />
   <remove-project name="crdroidandroid/android_vendor_crdroid" />
   <remove-project name="crdroidandroid/android_packages_apps_Launcher3" />
+  <remove-project name="crdroidandroid/android_vendor_crDroidOTA" />
   <remove-project name="crdroidandroid/android_bootable_recovery" />
   <remove-project name="LineageOS/android_packages_apps_Eleven" />
   <remove-project name="LineageOS/android_packages_apps_Jelly" />
