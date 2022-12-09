@@ -3,7 +3,7 @@
 
 ## FlokoROMを継承したカスタムROM
 開発終了となったFlokoROMと同等の特徴を持ったカスタムROMです。
-crDroid[https://crdroid.net/]をベースに、いくつかの変更が加えられています。[詳しくはこちら](https://wiki.maud.io/ja/floko/v4)
+[crDroid](https://crdroid.net/)をベースに、いくつかの変更が加えられています。[詳しくはこちら](https://wiki.maud.io/ja/floko/v4)
 現在Alpha版であるため、後述の問題点含めその他未知のバグを含む可能性があります。
 
 ### 将来的な予定
