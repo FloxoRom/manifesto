@@ -39,7 +39,7 @@
   <project path="packages/apps/LineageParts" name="FloxoRom/packages_apps_LineageParts" remote="floko" />
   <project path="packages/apps/OmniSwitch" name="FlokoROM/packages_apps_OmniSwitch" remote="floko" />
   <project path="packages/apps/Settings" name="FloxoRom/packages_apps_Settings" remote="floko" />
-  <project path="packages/apps/SetupWizard" name="FlokoROM/packages_apps_SetupWizard" remote="floko" />
+  <project path="packages/apps/SetupWizard" name="FloxoROM/packages_apps_SetupWizard" remote="floko" />
   <!--<project path="packages/apps/Updater" name="FlokoROM/packages_apps_Updater" remote="floko" />-->
   <project path="packages/services/OmniJaws" name="FlokoROM/packages_services_OmniJaws" remote="floko" />
   <project path="vendor/addons" name="FloxoRom/vendor_addons" remote="floko" />
