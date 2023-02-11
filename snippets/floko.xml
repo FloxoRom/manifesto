@@ -44,7 +44,7 @@
   <project path="lineage-sdk" name="FloxoRom/lineage-sdk" remote="floko" />
   <project path="packages/apps/crDroidSettings" name="FloxoRom/packages_apps_FlokoSettings" remote="floko" />
   <project path="packages/apps/LineageParts" name="FloxoRom/packages_apps_LineageParts" remote="floko" />
-  <project path="packages/apps/OmniSwitch" name="FloxoRom/packages_apps_OmniSwitch" remote="floko" revision="12.1" />
+  <!-- project path="packages/apps/OmniSwitch" name="FloxoRom/packages_apps_OmniSwitch" remote="floko" revision="12.1" /-->
   <project path="packages/apps/Settings" name="FloxoRom/packages_apps_Settings" remote="floko" />
   <project path="packages/apps/SetupWizard" name="FloxoRom/packages_apps_SetupWizard" remote="floko" />
   <project path="vendor/addons" name="FloxoRom/vendor_addons" remote="floko" />
