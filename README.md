@@ -1,17 +1,17 @@
-## LAST Update : 2023-01-22, Security Patch : 2023-01-05
+## LAST Update : 2023-02-23, Security Patch : 2023-01-05
 * [FlokoROM v4(unofficial,Android 11.0) is available.](https://github.com/FloxoRom/manifesto/tree/11.0)
 
 ## FlokoROMを継承したカスタムROM
 開発終了となったFlokoROMと同等の特徴を持ったカスタムROMです。
 [crDroid](https://crdroid.net/)をベースに、いくつかの変更が加えられています。[詳しくはこちら](https://wiki.maud.io/ja/floko/v4)
-現在Alpha版であるため、後述の問題点含めその他未知のバグを含む可能性があります。
+様々な環境でテストしている訳ではないので未知のバグを含む可能性があります。
+OmniSwitchは動作不能なので消しました
 
 ### 将来的な予定
 * ROMの名称変更(継承しているとはいえ非公式であるため)
-* OmniSwitchの一時的な除外(動かない間はROMに入れても仕方がない)
 
 ### 既知の問題点
-* OmniSwitchが使用不可(設定からも消えた)
+* 
 
 ### 連絡先
 Cugryが管理しています。何かあれば以下へ
