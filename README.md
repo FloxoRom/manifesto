@@ -3,8 +3,8 @@
 
 ## FlokoROMを継承したカスタムROM
 開発終了となったFlokoROMと同等の特徴を持ったカスタムROMです。
-[crDroid](https://crdroid.net/)をベースに、いくつかの変更が加えられています。[詳しくはこちら](https://wiki.maud.io/ja/floko/v4)
-様々な環境でテストしている訳ではないので未知のバグを含む可能性があります。
+[crDroid](https://crdroid.net/)をベースに、いくつかの変更が加えられています。[詳しくはこちら](https://wiki.maud.io/ja/floko/v4)  
+様々な環境でテストしている訳ではないので未知のバグを含む可能性があります。  
 OmniSwitchは動作不能なので消しました
 
 ### 将来的な予定
