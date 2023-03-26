@@ -34,7 +34,7 @@ Read:
 Initialize repo:
 
 ```sh
-repo init -u https://github.com/FloxoRom/manifesto.git -b 12.1
+repo init -u https://github.com/FloxoRom/manifesto.git -b 12.1 --git-lfs
 ```
 
 Sync(Download):
