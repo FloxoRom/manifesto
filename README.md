@@ -1,7 +1,7 @@
 # IMPORTANT : This is Unofficial Project.
 * [FlokoROM v6(unofficial,Android 12.1) is available.](https://github.com/FloxoRom/manifesto)
 
-## LAST Update : 2023-04-03, Security Patch : 2023-03-05
+## LAST Update : 2023-05-07, Security Patch : 2023-04-05
 
 ![FlokoROM](https://lindwurm.neocities.org/img/floko/flokowall_v4_mini.png)
 
