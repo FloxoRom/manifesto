@@ -1,4 +1,4 @@
-## LAST Update : 2023-05-07, Security Patch : 2023-04-05
+## LAST Update : 2023-05-09, Security Patch : 2023-05-05
 * [FlokoROM v4(unofficial,Android 11.0) is available.](https://github.com/FloxoRom/manifesto/tree/11.0)
 
 ## FlokoROMを継承したカスタムROM
